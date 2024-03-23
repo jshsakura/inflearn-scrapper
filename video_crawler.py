@@ -6,7 +6,7 @@ import requests
 import os
 import time
 
-DEST_PATH = r'c:\src\inflearn'
+DEST_PATH = r'./video'
 page_url = 'https://www.inflearn.com/'
 os_name_inhibit = ['\\', '/', ':', '*', '?', '"', '<', '>', '|']
 
